@@ -38,6 +38,3 @@ without making them blur.
 To make the Translation faster we can take an account in Google Cloud Api
 and avail the paid service to translate bulk data faster. 
 
-Within the given time, I could do this much, Hoping to hear your feedback.
-I explained everything because I need you to know what process I followed.
-Thank you for your time.
